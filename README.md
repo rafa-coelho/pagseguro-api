@@ -1,11 +1,3 @@
-<div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="Pagseguro Api" />
-
-  &#xa0;
-
-  <!-- <a href="https://pagseguroapi.netlify.app">Demo</a> -->
-</div>
-
 <h1 align="center">Pagseguro Api</h1>
 
 <p align="center">
@@ -15,7 +7,6 @@
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/rafa-coelho/pagseguro-api?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/rafa-coelho/pagseguro-api?color=56BEB8">
 
 </p>
 
@@ -28,10 +19,10 @@
 <hr> -->
 
 <p align="center">
-  <a href="#rocket-technologies">Tecnologias</a> &#xa0; | &#xa0;
-  <a href="#white_check_mark-requirements">Requisitos</a> &#xa0; | &#xa0;
-  <a href="#checkered_flag-starting">Começando</a> &#xa0; | &#xa0;
-  <a href="#sparkles-features">Criando Cobrança</a> &#xa0; | &#xa0;
+  <a href="#rocket-tecnologias">Tecnologias</a> &#xa0; | &#xa0;
+  <a href="#white_check_mark-requisitos">Requisitos</a> &#xa0; | &#xa0;
+  <a href="#checkered_flag-começando">Começando</a> &#xa0; | &#xa0;
+  <a href="#sparkles-criando-cobrança">Criando Cobrança</a> &#xa0; | &#xa0;
   <a href="https://github.com/rafa-coelho" target="_blank">Autor</a>
 </p>
 
@@ -39,7 +30,7 @@
 
 ## :rocket: Tecnologias ##
 
-The following tools were used in this project:
+Ferramentas usadas nesse projeto:
 
 - [Axios](https://github.com/axios/axios)
 - [Node.js](https://nodejs.org/en/)
@@ -47,7 +38,7 @@ The following tools were used in this project:
 
 ## :white_check_mark: Requisitos ##
 
-Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
+Antes de começar :checkered_flag:, você vai precisar do [Node](https://nodejs.org/en/) instalado.
 
 
 ## :checkered_flag: Começando ##
