@@ -21,8 +21,8 @@
 <p align="center">
   <a href="#rocket-tecnologias">Tecnologias</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requisitos">Requisitos</a> &#xa0; | &#xa0;
-  <a href="#checkered_flag-começando">Começando</a> &#xa0; | &#xa0;
-  <a href="#sparkles-criando-cobrança">Criando Cobrança</a> &#xa0; | &#xa0;
+  <a href="#checkered_flag-iniciando">Iniciando</a> &#xa0; | &#xa0;
+  <a href="#sparkles-cobrando">Cobrando</a> &#xa0; | &#xa0;
   <a href="https://github.com/rafa-coelho" target="_blank">Autor</a>
 </p>
 
@@ -41,7 +41,7 @@ Ferramentas usadas nesse projeto:
 Antes de começar :checkered_flag:, você vai precisar do [Node](https://nodejs.org/en/) instalado.
 
 
-## :checkered_flag: Começando ##
+## :checkered_flag: Iniciano ##
 
 ```bash
 $ npm i pagseguro-api
@@ -61,7 +61,7 @@ const PagSeguro = require('pagseguro-api');
 const pag = await PagSeguro(true);
 ```
 
-## :sparkles: Criando Cobrança ##
+## :sparkles: Cobrando ##
 
 Gerando uma cobrança de boleto
 
