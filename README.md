@@ -10,22 +10,6 @@
 
 </p>
 
-<!-- Status -->
-
-<!-- <h4 align="center"> 
-	🚧  Pagseguro Api 🚀 Under construction...  🚧
-</h4> 
-
-<hr> -->
-
-<p align="center">
-  <a href="#rocket-tecnologias">Tecnologias</a> &#xa0; | &#xa0;
-  <a href="#white_check_mark-requisitos">Requisitos</a> &#xa0; | &#xa0;
-  <a href="#checkered_flag-iniciando">Iniciando</a> &#xa0; | &#xa0;
-  <a href="#sparkles-cobrando">Cobrando</a> &#xa0; | &#xa0;
-  <a href="https://github.com/rafa-coelho" target="_blank">Autor</a>
-</p>
-
 <br>
 
 ## :rocket: Tecnologias ##
