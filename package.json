@@ -1,8 +1,9 @@
 {
   "name": "pagseguro-api",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Pacote para criação de cobrança utilizando a API do PagSeguro",
   "main": "index.js",
+  "repository": "github:rafa-coelho/pagseguro-api",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
