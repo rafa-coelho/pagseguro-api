@@ -1,6 +1,6 @@
 {
   "name": "pagseguro-api",
-  "version": "1.0.5",
+  "version": "1.0.5.1",
   "description": "Pacote para criação de cobrança utilizando a API do PagSeguro",
   "main": "index.js",
   "repository": "github:rafa-coelho/pagseguro-api",
@@ -8,8 +8,13 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "pagseguro", "api", "api-pagamento"
+    "pagseguro",
+    "api",
+    "api-pagamento"
   ],
   "author": "Rafael Coelho <rafaelcoelho8@yahoo.com.br>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
 }
