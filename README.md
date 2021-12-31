@@ -25,7 +25,7 @@ Ferramentas usadas nesse projeto:
 Antes de começar :checkered_flag:, você vai precisar do [Node](https://nodejs.org/en/) instalado.
 
 
-## :checkered_flag: Iniciano ##
+## :checkered_flag: Iniciando ##
 
 ```bash
 $ npm i pagseguro-api
